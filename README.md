@@ -5,4 +5,4 @@ JSConf US 2012
 
 Check out the slides from my talk! Find the following things:
 
-- Slides [view online](http://nonken.github.com/jsconfus2012/#1)
+- Slides [view online](http://jensarps.github.com/cgnjs-may-2012/)
