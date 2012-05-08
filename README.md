@@ -1,5 +1,5 @@
-JSConf US 2012
-==============
+Bikeshed talk at cgnjs, May 2012
+===
 
 > REDACTED
 
